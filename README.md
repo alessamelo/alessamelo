@@ -1,5 +1,4 @@
 ## Hi there 
-
 I'm an undergraduate Computer Science student passionate about building intelligent systems and creative technology.
 
 My interests focus on:
