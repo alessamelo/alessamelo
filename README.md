@@ -1,31 +1,8 @@
 <div align="center">
 
-<h1 style="
-font-size:42px;
-color:#5c3b58;
-background-color:#f7d6e0;
-display:inline-block;
-padding:14px 28px;
-border:4px solid #c27ba0;
-border-radius:18px;
-box-shadow:6px 6px 0px #d9a5b3;
-font-family:Georgia, serif;
-">
-Hi there
-</h1>
+# Hi there
 
-<p style="
-margin-top:18px;
-font-size:18px;
-max-width:700px;
-line-height:1.8;
-background-color:#fff7f9;
-padding:22px;
-border-radius:18px;
-border:3px solid #e8b4c7;
-box-shadow:4px 4px 0px #f0c7d6;
-color:#4b3b47;
-">
+<p>
 I'm an undergraduate <b>Computer Science</b> student passionate about
 building intelligent systems and creative technology.
 </p>
@@ -34,119 +11,51 @@ building intelligent systems and creative technology.
 
 <br>
 
-<div style="
-background-color:#fff4f7;
-border:3px solid #d9a5b3;
-border-radius:22px;
-padding:24px;
-box-shadow:6px 6px 0px #e8bfd0;
-">
+<table align="center">
+<tr>
 
-<h2 style="
-margin-top:0;
-color:#6b4a5f;
-font-family:Georgia, serif;
-">
-Interests
-</h2>
+<td width="33%" valign="top">
 
-<div style="
-display:flex;
-flex-wrap:wrap;
-gap:18px;
-margin-top:20px;
-">
+### Artificial Intelligence
 
-<div style="
-flex:1;
-min-width:220px;
-background-color:#ffeef4;
-padding:18px;
-border-radius:18px;
-border:3px solid #e6a8c0;
-box-shadow:4px 4px 0px #f2c6d7;
-">
-<h3 style="margin-top:0;color:#7a4f68;">Artificial Intelligence</h3>
-<p style="line-height:1.6;color:#4d3c46;">
-Artificial Intelligence and Machine Learning models,
-with interest in intelligent systems and computational learning.
-</p>
-</div>
+Artificial Intelligence and Machine Learning models, with interest in intelligent systems and computational learning.
 
-<div style="
-flex:1;
-min-width:220px;
-background-color:#fff0f5;
-padding:18px;
-border-radius:18px;
-border:3px solid #e6a8c0;
-box-shadow:4px 4px 0px #f2c6d7;
-">
-<h3 style="margin-top:0;color:#7a4f68;">Software Development</h3>
-<p style="line-height:1.6;color:#4d3c46;">
-Software engineering, interface design, and building
-interactive applications with clean user experiences.
-</p>
-</div>
+</td>
 
-<div style="
-flex:1;
-min-width:220px;
-background-color:#fff5f8;
-padding:18px;
-border-radius:18px;
-border:3px solid #e6a8c0;
-box-shadow:4px 4px 0px #f2c6d7;
-">
-<h3 style="margin-top:0;color:#7a4f68;">Creative Technology</h3>
-<p style="line-height:1.6;color:#4d3c46;">
-Exploring the intersection between computation,
-technology, digital creativity, and artistic expression.
-</p>
-</div>
+<td width="33%" valign="top">
 
-</div>
+### Software Development
 
-</div>
+Software engineering, interface design, and building interactive applications with clean user experiences.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Creative Technology
+
+Exploring the intersection between computation, technology, digital creativity, and artistic expression.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<div style="
-background-color:#fff7fa;
-border:3px solid #d9a5b3;
-border-radius:22px;
-padding:28px;
-box-shadow:6px 6px 0px #e8bfd0;
-">
+<div align="center">
 
-<h2 style="
-margin-top:0;
-color:#6b4a5f;
-font-family:Georgia, serif;
-">
-Creative Philosophy
-</h2>
+## Technologies
 
-<p style="
-font-size:17px;
-line-height:1.9;
-color:#4d3c46;
-">
-I enjoy creating projects that combine
-<b>technical problem-solving with creative expression</b>,
-using programming to transform complex ideas into
-interactive and meaningful tools.
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<p style="
-font-size:17px;
-line-height:1.9;
-color:#4d3c46;
-">
-My work focuses on balancing analytical thinking,
-system design, and aesthetic experiences inspired by
-cozy and expressive digital environments.
-</p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
 </div>
 
@@ -154,17 +63,9 @@ cozy and expressive digital environments.
 
 <div align="center">
 
-<div style="
-display:inline-block;
-background-color:#f7d6e0;
-padding:14px 24px;
-border-radius:18px;
-border:3px solid #c27ba0;
-box-shadow:5px 5px 0px #d9a5b3;
-color:#5c3b58;
-font-size:16px;
-">
-Computer Science • Artificial Intelligence • Creative Computing
-</div>
+## Creative Philosophy
+
+I enjoy creating projects that combine **technical problem-solving with creative expression**,  
+using programming to transform complex ideas into interactive and meaningful tools.
 
 </div>
