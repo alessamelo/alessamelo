@@ -3,49 +3,12 @@
   <img src="Alessa Melo.png" width="1000" style="border-radius:50%">
 </p>
 
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="33%" valign="top">
-
-### Artificial Intelligence
-
-Artificial Intelligence and Machine Learning models, with interest in intelligent systems and computational learning.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Software Development
-
-Software engineering, interface design, and building interactive applications with clean user experiences.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Creative Technology
-
-Exploring the intersection between computation, technology, digital creativity, and artistic expression.
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <div align="center">
+<p align="center">
+  <img src="image_2026-05-25_131500942.png" width="1000" style="border-radius:50%">
+</p>\
 
-
-
-<div align="center">
-
-## Technologies & Tools
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
