@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="Alessa Melo.png" width="250" style="border-radius:50%">
+  <img src="Alessa Melo.png" width="500" style="border-radius:50%">
 </p>
   
 # Hi there
