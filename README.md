@@ -81,41 +81,8 @@ Exploring the intersection between computation, technology, digital creativity, 
 
 <div align="center">
 
-## Academic Areas & Coursework
-
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-- Introduction to Programming using Python  
-- Advanced Programming using C++  
-- Advanced Mathematics  
-- Optimization Methods using Python  
-- Database Systems using SQL  
-- Operating Systems  
-- Theory of Computation  
-- Mobile Application Development using Kotlin and Android Studio  
-- Natural Language Processing using Python and Jupyter Notebooks  
-- Neural Networks and Machine Learning  
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
-
-## Interests
-
-Artificial Intelligence • NLP • Optimization • GPU Computing • Mathematical Modeling • Software Engineering • Mobile Development • Creative Computing
-
-</div>
-
----
-
-<div align="center">
-
+<p align="center">
+  <img src="image_2026-05-25_131500942.png" width="1000" style="border-radius:50%">
+</p>\
 
