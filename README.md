@@ -42,13 +42,6 @@ Exploring the intersection between computation, technology, digital creativity, 
 <div align="center">
 
 
-This GitHub profile contains both:
-- personal projects,
-- and academic projects developed throughout my Computer Science formation.
-
-</div>
-
----
 
 <div align="center">
 
