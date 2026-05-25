@@ -1,13 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="Alessa Melo.png" width="500" style="border-radius:50%">
-</p>
-  
-# Hi there
-
-<p>
-I'm an undergraduate <b>Computer Science</b> student passionate about
-building intelligent systems and creative technology.
+  <img src="Alessa Melo.png" width="1000" style="border-radius:50%">
 </p>
 
 </div>
@@ -48,12 +41,6 @@ Exploring the intersection between computation, technology, digital creativity, 
 
 <div align="center">
 
-# Alessa Melo
-
-### Undergraduate Computer Science Student
-
-Exploring the intersection between  
-**software engineering, artificial intelligence, mathematics, and creative computing.**
 
 This GitHub profile contains both:
 - personal projects,
@@ -138,11 +125,4 @@ Artificial Intelligence • NLP • Optimization • GPU Computing • Mathemati
 
 <div align="center">
 
-## Creative Philosophy
 
-I enjoy building projects that combine  
-**technical problem-solving, mathematical reasoning, and creative expression.**
-
-Most of my work focuses on transforming abstract ideas into interactive systems, intelligent models, and practical computational tools.
-
-</div>
